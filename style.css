@@ -1,13 +1,10 @@
-h1{
-	color:green;
-	font-family:copperplate;
-	font-weight:normal;
-	background-color:lightblue;
-	border-color:purple;
+.moreInfo {
+    color: skyblue;
+    font-size: 30px;
 }
-#quadratic_probing{
-	font-style:italic;
+#types {
+    color: orange;
 }
-.odd{
-	background-color:lightgrey;
+h1 {
+    color: red;
 }
